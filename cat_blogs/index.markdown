@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Blogs"
-subtitle: "Blogs contributed by the IITM Student Community"
+subtitle: "----Blogs contributed by the IITM Student Community----"
 category: blogs
 date:
 modified:
