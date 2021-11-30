@@ -13,7 +13,7 @@ image:
 imageurl: "https://bibinwilson.com/wp-content/uploads/2021/03/blog-plaragism.jpg"
 ---
 
-## Problem statement
+## Problem Problem statement
 
 The problem statement is to ensure that people who are hard of hearing can be helped in some way, by allowing them to be alerted by sounds in spite of not being able to hear. Once our basic product is made, we can expand it to include other features.
 
