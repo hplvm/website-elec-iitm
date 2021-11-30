@@ -5,7 +5,7 @@ description: "The website of the Electronics Club, IITM"
 logo: android-chrome-192x192.png
 teaser: elec_teaser.jpeg
 locale: en
-url: "https://nikhilanand03.github.io/website-elec-iitm/"
+url: "https://hplvm.github.io/website-elec-iitm/"
 feed:
   path: atom.xml
 
